@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/XRRigSample.unity
+    guid: 6b9bd3526f385f94085483d54f1157fd
+  - enabled: 1
+    path: Assets/Scenes/XRRig+SimpleDoor.unity
+    guid: 0b382f36f28c0aa49b18f60d7d24eb02
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bc013305665c54b4399e33925353720c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0572f3f3bafb0264e9e48cf62b065099,
+      type: 2}
